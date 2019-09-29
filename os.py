@@ -23,5 +23,12 @@ elif game_choice == "anki":
     os.startfile(filepath)
         
 print("done")
+print("more practice")
+print("more practice")
+print("more practice")
+print("more practice")
+print("more practice")
+print("more practice")
+
 
 
