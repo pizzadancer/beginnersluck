@@ -22,5 +22,6 @@ elif game_choice == "anki":
     filepath = input()
     os.startfile(filepath)
         
+print("done")
 
 
