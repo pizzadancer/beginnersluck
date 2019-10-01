@@ -18,17 +18,11 @@ elif game_choice == "scrabble":
     webbrowser.open('https://playoverwatch.com/en-us/heroes/sombra/')
 elif game_choice == "anki":
     print("youre not even trying now")
-    time.sleep(3)
-    filepath = input()
+    print("initiating anki!")
+    webbrowser.open('https://apps.ankiweb.net/docs/manual.html')
+    filepath = "D:/Apps/Anki/anki.exe"
     os.startfile(filepath)
+    
         
-print("done")
-print("more practice")
-print("more practice")
-print("more practice")
-print("more practice")
-print("more practice")
-print("more practice")
-
 
 
